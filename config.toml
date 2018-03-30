@@ -1,3 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://xcdt-1337.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "SCDT Blog"
+theme = "after-dark"
+staticDir = ["static"]
+
+[params]
+    powered_by = false
