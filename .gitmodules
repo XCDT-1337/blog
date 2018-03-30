@@ -1,0 +1,6 @@
+[submodule "themes/after-dark"]
+	path = themes/after-dark
+	url = https://github.com/comfusion/after-dark
+[submodule "public"]
+	path = public
+	url = git@github.com:XCDT-1337/xcdt-1337.github.io
